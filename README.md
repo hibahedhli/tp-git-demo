@@ -15,8 +15,14 @@ Ce projet permet de comprendre les commandes de base de Git
 4. Installer les dépendances : `pip install -r requirements.txt`
 
 ## Utilisation
-* Suivre les étapes du TP dans `journal.txt`
-* Utiliser les commandes Git : `git add`, `git commit`, `git push`,`git diff`
+1. Créer un fichier `journal.txt`
+2. Écrire dedans : `Aujourd'hui, j'apprends Git.`
+3. Stager le fichier avec `git add journal.txt`
+4. Faire un commit : `git commit -m "Initial commit: création du journal"`
+5. Ajouter `Git est génial avec VS Code !`
+6. Voir les modifications avec `git diff`
+7. Ajouter `Supprimer tout le code du projet.`
+8. Annuler les changements avec `git restore journal.txt` (Discard Changes)
 
 ## Auteurs
 * Hiba Hedhli  [@hibahedhli](https://github.com/hibahedhli)
