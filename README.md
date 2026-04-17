@@ -1,4 +1,4 @@
-# TP Git
+# TP 1 : Premiers Pas avec Git et GitHub
 
 ## Description
 Ce projet permet de comprendre les commandes de base de Git 
